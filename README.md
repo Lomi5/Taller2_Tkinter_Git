@@ -5,11 +5,11 @@ Taller 2: Tkinter, Git y Github.
 
 # Parche_1:
 
-  *Agregué código de Calculadora : Taller2_TkinterGit
+* Agregué código de Calculadora : Taller2_TkinterGit
   
 # Parche_2:
 
-*Agregué segunda calculadora con nuevas funciones ^^
+* Agregué segunda calculadora con nuevas funciones ^^
  
 Contenido:
   
