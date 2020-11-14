@@ -20,6 +20,3 @@ Contenido:
 - [x] Se agregó un "messagebox" que informa de como guiarse en el uso de la calculadora.
     
 - [x] Se agregó un "ColorChooser" que permite elegir el color del fondo de la calculadora
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
