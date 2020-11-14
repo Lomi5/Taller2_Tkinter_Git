@@ -13,10 +13,10 @@ Taller 2: Tkinter, Git y Github.
  
 Contenido:
   
-    -[x] Se agregaron nuevas funciones, como tambien nuevos valores clave como 'euler' o 'pi'.
+   -[x] Se agregaron nuevas funciones, como tambien nuevos valores clave como 'euler' o 'pi'.
     
-    -[x] agregó la funcion de cambiar el color de la letra y fondo en caso de modo nocturno.
+   -[x] agregó la funcion de cambiar el color de la letra y fondo en caso de modo nocturno.
     
-    -[x] Se agregó un "messagebox" que informa de como guiarse en el uso de la calculadora.
+   -[x] Se agregó un "messagebox" que informa de como guiarse en el uso de la calculadora.
     
-    -[x] Se agregó un "ColorChooser" que permite elegir el color del fondo de la calculadora
+   -[x] Se agregó un "ColorChooser" que permite elegir el color del fondo de la calculadora
