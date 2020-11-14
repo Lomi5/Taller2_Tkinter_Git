@@ -1,7 +1,7 @@
 # Taller2_Tkinter_Git
 Taller 2: Tkinter, Git y Github.
 
-Texto importante que da mas puntos. :mage:
+*Texto importante que da mas puntos.* :mage:
 
 #Parche_1:
 
@@ -9,9 +9,9 @@ Texto importante que da mas puntos. :mage:
   
 #Parche_2:
 
- *Agregué segunda calculadora con nuevas funciones ^^
+# *Agregué segunda calculadora con nuevas funciones ^^
  
-  -Contenido:
+##  -Contenido:
   
     *Se agregaron nuevas funciones, como tambien nuevos valores clave como 'euler' o 'pi'.
     
